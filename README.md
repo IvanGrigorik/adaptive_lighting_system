@@ -1,4 +1,4 @@
 # Adaptive lighting system
 
-### My S&FOoC coursework.
-Repository contains hardware entries
+### My coursework on the course of circuitry.
+Coursework represents the ability to work with circuits and design own circuits
